@@ -1,5 +1,9 @@
 # Where Export Controls Bind — public source documents (supplement 2)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23638441.svg)](https://doi.org/10.5281/zenodo.23638441)
+
+The 37 assets (5.84 GB) are archived on Zenodo at https://doi.org/10.5281/zenodo.23638441; this repository holds the index (README, MANIFEST.csv).
+
 Kyung, H. and S. Kim (2026), KIET. The original public documents behind the processed panels in the replication package
 (Zenodo DOI 10.5281/zenodo.23636445; github.com/hee880718/wecb-replication). Every file was downloaded from a public portal —
 SEC EDGAR, EDINET, OpenDART, cninfo, the Shanghai Stock Exchange, company investor-relations sites, GACC (China customs),
