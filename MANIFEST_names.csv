@@ -1,0 +1,38 @@
+asset,bytes,n_files,contents,tidy_name
+cninfo_filings_20261006_part01.zip,1243250753,928,cninfo annual and quarterly reports of Chinese listed semiconductor-equipment and device firms (928 PDFs),01_cninfo_chinese_listed_firms_annual_quarterly_reports_2009-2026.zip
+cninfo_entitylist_20261008.zip,696062342,515,"cninfo reports for A-share firms designated on the Entity List (Dahua, Hikvision, iFlytek, Meiya Pico) and never-designated controls (Hanwang, ThunderSoft, ArcSoft), 515 PDFs",02_cninfo_entity_list_firms_and_controls_reports_2009-2026.zip
+cninfo_addon_20261007_part01.zip,312329947,205,"additional cninfo reports collected 7 Oct 2026 (205 PDFs, incl. CXMT)",03_cninfo_addon_reports_2016-2026.zip
+Supplements.Corporations.Records.1.zip,1018560363,574,"annual and quarterly reports of SMIC, Hua Hong, NAURA, AMEC, Piotech, JCET, TFMC, Huatian, ZTE and Huawei (574 PDFs)",04_chinese_corporate_reports_pdf_2003-2026.zip
+edgar_filings_20261006_part01.zip,153817851,1482,"SEC EDGAR 10-K/10-Q/20-F filings and companyfacts JSON for US-listed semiconductor-equipment firms, part 1 of 5",05_sec_edgar_equipment_firms_10K_10Q_part1.zip
+edgar_filings_20261006_part02.zip,127284075,977,part 2 of 5,05_sec_edgar_equipment_firms_10K_10Q_part2.zip
+edgar_filings_20261006_part03.zip,136577304,1232,part 3 of 5,05_sec_edgar_equipment_firms_10K_10Q_part3.zip
+edgar_filings_20261006_part04.zip,142875763,1284,part 4 of 5,05_sec_edgar_equipment_firms_10K_10Q_part4.zip
+edgar_filings_20261006_part05.zip,74124020,729,part 5 of 5,05_sec_edgar_equipment_firms_10K_10Q_part5.zip
+edgar_filings.zip,185223424,1700,"earlier bulk download of SEC filings and companyfacts for the 19 US-listed equipment firms (1,700 files)",06_sec_edgar_equipment_firms_bulk_2000-2026.zip
+edgar_addon_20261007_part01.zip,49043328,458,additional SEC filings collected 7 Oct 2026 (458 files),07_sec_edgar_addon_2000-2025.zip
+edgar_peers_cf.zip,4935782,19,"SEC companyfacts JSON for 19 telecom and device peers used as ZTE/Huawei donors (ADTN, CALX, EXTR, FFIV, FLEX, GLW, GRMN, JBL, LOGI, MSI, NTAP, NTGR, SMCI, SONO, STX, UI, VIAV, WDC, ZBRA)",08_sec_edgar_companyfacts_telecom_device_peers.zip
+edinet_filings_20261006_part01.zip,226703296,1236,EDINET 有価証券報告書 and attachments for Japanese toolmakers (617 PDFs + XBRL zips),09_edinet_japan_securities_reports_2016-2026.zip
+dart_filings_20261006_part01.zip,125381275,533,OpenDART annual-report packages for Korean toolmakers (525 zips),10_opendart_korea_annual_reports_2009-2026.zip
+eu_ir_filings_20261007_part01.zip,610711064,195,investor-relations filings of AIXTRON and ASM International (195 PDFs),11_european_toolmakers_investor_relations_2008-2026.zip
+ASML.Annual.Reports.zip,297123570,22,ASML annual reports (IFRS and US GAAP) and statistical workbooks,12_asml_annual_reports_2015-2025.zip
+ASML.Quarterly.Results.Package.zip,93677148,22,ASML quarterly results packages (22 zips),13_asml_quarterly_results_packages_2022-2024.zip
+TEL.Quarterly.Results.zip,207267730,3261,Tokyo Electron investor-relations earnings pages saved as web archives (includes page assets),14_tokyo_electron_ir_earnings_pages_FY2008-2025.zip
+Hua.Hong.Quarterly.Results.zip,21039135,48,Hua Hong Semiconductor quarterly results announcements (48 PDFs),15_hua_hong_quarterly_results.zip
+memory_ipo_docs_20261007_part01.zip,14461694,4,"CXMT (688825) prospectuses of Dec 2025 and May 2026, XMC filing of Sep 2024, YMTC filing of Aug 2026",16_memory_makers_star_market_ipo_documents_2024-2026.zip
+ymtc_prospectus.zip,940073,6,"YMTC (长存控股) STAR Market application documents, 21 Aug 2026",17_ymtc_prospectus_2026_part1.zip
+ymtc_prospectus.2.zip,21827185,7,"YMTC application documents, continued (sponsor letters, audit report)",17_ymtc_prospectus_2026_part2.zip
+Additional.Uploads.2.20261007.zip,20938903,6,YMTC filing set of 21 Aug 2026 (five PDFs) and GACC HS 851762 download for 2024,18_ymtc_filing_set_and_gacc_851762_2024.zip
+GACC.851762.Annual.All.Partners.zip,497826,12,"GACC HS 851762 annual imports, all partners",19_gacc_china_customs_851762_annual_all_partners_2015-2026.zip
+GACC.Batch.1.zip,4090913,32,"GACC monthly imports by origin at HS8 (848620xx, 847130, 851714 and others), batch 1",19_gacc_china_customs_hs8_batch1_2019-2026.zip
+GACC.Batch.2.8542.Retrial.zip,528480,4,"GACC HS 8542 by partner, batch 2",19_gacc_china_customs_hs8_batch2_8542_2023-2026.zip
+GACC.Batch.3.851762.847130.Retrial.zip,708029,12,"GACC HS 851762 and 847130 by partner, batch 3",19_gacc_china_customs_hs8_batch3_851762_847130_2023-2026.zip
+GACC.Batch.4.zip,509431,5,"GACC exports, HS 8542 and 847131, batch 4",19_gacc_china_customs_hs8_batch4_exports_2023-2026.zip
+consolidated.csv,16756892,1,US Consolidated Screening List extract (Entity List entries with Federal Register notices and dates),20_bis_entity_list_consolidated_screening_list.csv
+hsk10_trade_2025_2026.parquet,3943628,1,"Korea Customs Service HSK 10-digit trade, 2025–2026",21_korea_customs_hsk10_trade_2025-2026.parquet
+hsk_hist_2007_2024.parquet,19744290,1,"Korea Customs Service trade statistics by HSK code, 2007–2024",21_korea_customs_hsk_trade_2007-2024.parquet
+hsk_trade_42_2025_2026.parquet,2430688,1,"Korea Customs Service trade, chapter 42 subset, 2025–2026",21_korea_customs_hsk_trade_chapter42_2025-2026.parquet
+taiwan.ita.data.8542.854231.854232.854239.zip,980005,49,"Taiwan Ministry of Finance / ITA export statistics for HS 8542, 854231, 854232, 854239 (49 workbooks)",22_taiwan_ita_exports_hs8542_8542xx.zip
+tracker_panel.zip,41179,11,"archived smartphone/PC tracker press releases (Canalys, Omdia, IDC, Counterpoint) and the panel built from them, part 1",23_tracker_press_releases_panel_part1.zip
+tracker_panel.2.zip,75790,20,part 2,23_tracker_press_releases_panel_part2.zip
+tracker_panel.3.zip,102465,26,part 3,23_tracker_press_releases_panel_part3.zip
+tracker_panel.4.zip,105825,26,part 4,23_tracker_press_releases_panel_part4.zip
